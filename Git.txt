@@ -1,0 +1,15 @@
+git config --global user.name (имя на бумажке)
+
+git config --global user.email
+
+git init
+
+git add .
+
+git commit -m "session1_upload"
+
+git remote add origin (только в первый раз) 
+
+git push -u origin master
+
+97ba0fbb8a07a913afcf4c7ee41a5d83e58f0372
